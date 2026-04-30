@@ -20,6 +20,7 @@ We've categorized these tools to help you find exactly what you need to streamli
 - [🤖 AI-Powered, Automation & Evergreen](#-ai-powered-automation--evergreen)
 - [📊 Analytics & Specialized Tools](#-analytics--specialized-tools)
 - [🧠 Open Source Alternatives](#-open-source-alternatives)
+- [🤖 Content Download Tools](#-content-download-tools)
 - [🤝 Contributing](#-contributing)
 
 ---
