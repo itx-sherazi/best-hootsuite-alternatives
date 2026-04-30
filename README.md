@@ -20,7 +20,7 @@ We've categorized these tools to help you find exactly what you need to streamli
 - [🤖 AI-Powered, Automation & Evergreen](#-ai-powered-automation--evergreen)
 - [📊 Analytics & Specialized Tools](#-analytics--specialized-tools)
 - [🧠 Open Source Alternatives](#-open-source-alternatives)
-- [🤖 Content Download Tools](#-content-download-tools)
+- [📥 Content Download Tools](#-content-download-tools)
 - [🤝 Contributing](#-contributing)
 
 ---
@@ -129,7 +129,7 @@ Community-driven projects for those who prefer self-hosted or open-code solution
 
 ---
 
-## 🤖 Content Download Tools
+## 📥 Content Download Tools
 Free tools to save and repurpose social media video content.
 
 | Tool | Best For | Website | Notes/Highlights |
