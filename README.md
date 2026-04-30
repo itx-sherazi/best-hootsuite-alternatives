@@ -20,6 +20,7 @@ We've categorized these tools to help you find exactly what you need to streamli
 - [🤖 AI-Powered, Automation & Evergreen](#-ai-powered-automation--evergreen)
 - [📊 Analytics & Specialized Tools](#-analytics--specialized-tools)
 - [🧠 Open Source Alternatives](#-open-source-alternatives)
+- [📥 Content Download Tools](#-content-download-tools)
 - [🤝 Contributing](#-contributing)
 
 ---
@@ -125,6 +126,15 @@ Community-driven projects for those who prefer self-hosted or open-code solution
 | **Mixpost** | Self-Hosted Management | [mixpost.app](https://mixpost.app) | A modern open-source social media management tool. |
 
 > _Know of an open-source alternative? [Submit a PR!](CONTRIBUTING.md)_
+
+---
+
+## 📥 Content Download Tools
+Free tools to save and repurpose social media video content.
+
+| Tool | Best For | Website | Notes/Highlights |
+|------|-----------|---------|-------------------|
+| **[Cyber Collector](https://t.me/cybercollectorbot)** | Video Downloading | [cybercollector.hitkey.io](https://cybercollector.hitkey.io) | Free Telegram bot for downloading TikTok (no watermark), Instagram Reels/Stories, YouTube+Shorts, X/Twitter, and Facebook videos. No signup, no ads. |
 
 ---
 
