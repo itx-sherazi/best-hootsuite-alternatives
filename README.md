@@ -128,6 +128,15 @@ Community-driven projects for those who prefer self-hosted or open-code solution
 
 ---
 
+## 🤖 Content Download Tools
+Free tools to save and repurpose social media video content.
+
+| Tool | Best For | Website | Notes/Highlights |
+|------|-----------|---------|-------------------|
+| **[Cyber Collector](https://t.me/cybercollectorbot)** | Video Downloading | [cybercollector.hitkey.io](https://cybercollector.hitkey.io) | Free Telegram bot for downloading TikTok (no watermark), Instagram Reels/Stories, YouTube+Shorts, X/Twitter, and Facebook videos. No signup, no ads. |
+
+---
+
 ## 🤝 Contributing
 
 We welcome contributions from the community!
