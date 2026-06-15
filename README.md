@@ -97,6 +97,7 @@ Leverage AI, content recycling, and bulk workflows to save time.
 | **Nuelink** | Social Automation | [nuelink.com](https://nuelink.com) | Automates posts from e-commerce shops/blogs. |
 | **StoryChief** | Multi-Channel | [storychief.io](https://storychief.io) | Publish to social, CMS, and employee advocates. |
 | **SocialChamp** | Multi-Platform | [socialchamp.io](https://www.socialchamp.io) | Bulk upload and sentiment analysis. |
+| **[Xquik](https://xquik.com)** | X Automation/API | [docs.xquik.com](https://docs.xquik.com) | Automate X monitoring, extraction, compose, webhooks, and MCP workflows from one API. |
 
 ---
 
