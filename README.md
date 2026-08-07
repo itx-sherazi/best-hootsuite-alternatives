@@ -97,6 +97,7 @@ Leverage AI, content recycling, and bulk workflows to save time.
 | **Nuelink** | Social Automation | [nuelink.com](https://nuelink.com) | Automates posts from e-commerce shops/blogs. |
 | **StoryChief** | Multi-Channel | [storychief.io](https://storychief.io) | Publish to social, CMS, and employee advocates. |
 | **SocialChamp** | Multi-Platform | [socialchamp.io](https://www.socialchamp.io) | Bulk upload and sentiment analysis. |
+| **Autoposting** | AI Voice & Video Clips | [autoposting.ai](https://autoposting.ai) | Writes in your own trained voice, clips long video into shorts, builds carousels. |
 
 ---
 
