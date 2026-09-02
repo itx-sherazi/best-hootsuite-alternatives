@@ -65,6 +65,7 @@ Tools optimized for visual calendars, specific platforms, or streamlined posting
 | Tool | Best For | Website | Notes/Highlights |
 |------|-----------|---------|-------------------|
 | **Buffer** | Creators / Small Brands | [buffer.com](https://buffer.com) | Simple scheduling, analytics, and start pages. |
+| **BulkPublish** | AI Agents / Developers | [bulkpublish.com](https://www.bulkpublish.com/) | API and MCP server for adapting, scheduling, and publishing social content across platforms. |
 | **Later** | Instagram / Visuals | [later.com](https://later.com) | Best visual content calendar & link-in-bio tools. |
 | **Planable** | Collaboration | [planable.io](https://planable.io) | "Google Docs" style collaboration for social posts. |
 | **Tailwind** | Pinterest / Instagram | [tailwindapp.com](https://www.tailwindapp.com) | Specialized scheduling and design creation. |
