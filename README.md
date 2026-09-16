@@ -45,6 +45,7 @@ Comprehensive platforms for management, engagement, and team collaboration.
 | Tool | Best For | Website | Notes/Highlights |
 |------|-----------|---------|-------------------|
 | **Hootsuite** | Enterprise / Agencies | [hootsuite.com](https://hootsuite.com) | The industry standard for large-scale social management. |
+| **[Social media studio](https://so-me.studio)** | Creators / Agencies / AI Agents | [so-me.studio](https://so-me.studio) | Multi-platform scheduling, AI captions, unified inbox, analytics, and MCP integration. |
 | **Sprout Social** | Enterprise / Data-Driven | [sproutsocial.com](https://sproutsocial.com) | Powerful reporting and social listening features. |
 | **Agorapulse** | Mid-Sized Agencies | [agorapulse.com](https://agorapulse.com) | Unified inbox, CRM, and scheduling in one. |
 | **Zoho Social** | CRM Integrations | [zoho.com/social](https://www.zoho.com/social/) | Deep integration with Zoho CRM ecosystem. |
