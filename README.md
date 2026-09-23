@@ -67,6 +67,7 @@ Tools optimized for visual calendars, specific platforms, or streamlined posting
 | **Buffer** | Creators / Small Brands | [buffer.com](https://buffer.com) | Simple scheduling, analytics, and start pages. |
 | **Later** | Instagram / Visuals | [later.com](https://later.com) | Best visual content calendar & link-in-bio tools. |
 | **Planable** | Collaboration | [planable.io](https://planable.io) | "Google Docs" style collaboration for social posts. |
+| **SocialRoster** | Creators / Small Teams | [socialroster.dev](https://socialroster.dev) | Calendar scheduling and bulk upload for TikTok, Instagram, YouTube, and Facebook. |
 | **Tailwind** | Pinterest / Instagram | [tailwindapp.com](https://www.tailwindapp.com) | Specialized scheduling and design creation. |
 | **Sked Social** | Visual Planning | [skedsocial.com](https://skedsocial.com) | First-in-class Instagram auto-publishing. |
 | **Loomly** | Brand Success | [loomly.com](https://loomly.com) | User-friendly interface with post ideas. |
