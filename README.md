@@ -85,6 +85,7 @@ Leverage AI, content recycling, and bulk workflows to save time.
 
 | Tool | Best For | Website | Notes/Highlights |
 |------|-----------|---------|-------------------|
+| **OpenSparta** | Telegram account management | [opensparta.com](https://opensparta.com) | Telegram operations SaaS workspace for conversation discovery, connected-account management, and proxy operations. |
 | **[Postzio](https://postzio.com)** | Fast AI Scheduling | [postzio.com](https://postzio.com) | Modern, AI-assisted workflow for rapid growth. |
 | **SocialBee** | Evergreen Content | [socialbee.io](https://socialbee.io) | Category-based scheduling and content recycling. |
 | **SocialPilot** | Bulk / Agency | [socialpilot.co](https://socialpilot.co) | Client management and bulk scheduling features. |
