@@ -110,6 +110,7 @@ Tools focused on listening, data, or specific niche needs.
 | **Meltwater** | Media Intelligence | [meltwater.com](https://www.meltwater.com) | Comprehensive media monitoring and social tools. |
 | **Iconosquare** | Instagram/TikTok Data | [pro.iconosquare.com](https://pro.iconosquare.com) | Deep analytics for visual platforms. |
 | **Dash Hudson** | Visual Intelligence | [dashhudson.com](https://www.dashhudson.com) | Predicts performance of visual content. |
+| **SnapDataHub** | Snapchat Data | [snapdatahub.com](https://snapdatahub.com) | Snapchat profile, Spotlight and engagement analytics for creators and marketers. |
 | **RADAAR** | Unified Management | [radaar.io](https://radaar.io) | Includes password manager and collab tools. |
 | **KWatch.io** | LinkedIn Listening | [kwatch.io](https://kwatch.io) | Monitor keywords on LinkedIn in real-time. |
 | **DrumUp** | Content Discovery | [drumup.io](https://drumup.io) | Curates content for your audience. |
